@@ -1,2 +1,2 @@
 # Flutter-Firebase-Provider
- Bu projemde Firebase veritabanını MVVM mimarisine uygun bir şekilde entegre ettim ve aynı zamanda Provider yapısını da kullanarak kod tabanımı daha organize ve etkili hale getirdim
+ Bu projemde Firebase veritabanını MVVM mimarisine uygun bir şekilde entegre ettim ve aynı zamanda Provider yapısını da kullanarak kod tabanımı daha organize ve etkili hale getirdim.projemde kullanıcı ekleyebilme(ad ve soyad),kullanıcı düzenleme,kullanıcı silme ve kullanıcıları arama gibi özelikler var ve atrıca kullanıcıya bastığın zaman detay sayfasında daha fazla bilgiye sahip olabiliyor.
